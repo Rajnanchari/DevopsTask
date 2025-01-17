@@ -1,0 +1,23 @@
+1)what is auto scaling
+2)how to create 256 ip address
+3)what is EC2 explain brief
+4)what is cider what purpose it use
+5)Diff type of instance in EC2,ondemad,
+6)Elastic ip  address
+7)creation of VPC full Explanation
+8)Linux operating system port number, http port number
+9)Explation about Ec2 Auto Scaling
+10)why you use diff az 
+11)what is security group in ec2
+12)what is loadbalancer,targetGroup
+13)what is diff b/w instance storage and ebs volume
+14)what  is AMI,why your using
+15)what is Amazon s3 
+16)how will you automatically setup transition of object
+17)what is static webhosting in s3 ,how will use versioning
+18)how many types of storage class
+19)s3 bucket policy,what is A pre-signed uses
+20)Diff b/w internet gateway ,nat gateway,waht purposeis used NACL
+21)what is vpc peering 
+22)your are create iam what defult permission you have
+ 
